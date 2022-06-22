@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @collo-B
 - 🌱 I’m currently a freelance dev
+- (React/Ruby)
 - 💞️ I’m interested in web,fullstack dev
 - 📫 How to reach me ckipkoech17@gmail.com
 
