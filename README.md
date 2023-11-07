@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=collo-B&style=flat-square&color=blue" alt=""/>
 - 👋 Hi, I’m @collo-B
 - 🌱 I’m currently a freelance dev
 - (React/Ruby)
