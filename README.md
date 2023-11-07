@@ -23,7 +23,7 @@
 
 ### :man_technologist: About Me :
 - 👋 Hi, I’m @collo-B
-- 🌱 I’m currently a freelance dev
+- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from KENYA.
 - (React/Ruby)
 - figma, git.
 - 💞️ I’m interested in web,fullstack dev
