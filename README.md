@@ -28,8 +28,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- 
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. 
 - 📫 How to reach me ckipkoech17@gmail.com
 
 <!---
