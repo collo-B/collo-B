@@ -30,7 +30,9 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. 
 - 📫 How to reach me ckipkoech17@gmail.com
+---
 
+### :hammer_and_wrench: Languages and Tools :
 <!---
 collo-B/collo-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
