@@ -20,7 +20,7 @@
   ---
 
 ### :man_technologist: About Me :
-- 👋 Hi, <b style="font-size : xx-large">I’m @collo-B</b>
+- 👋 Hi, <b style="font-size : xx-large ; width="30px"">I’m @collo-B</b>
 - I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from KENYA.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
